@@ -5,11 +5,16 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPWeb_equipo-12b", "TPWeb_equipo-12b\TPWeb_equipo-12b.csproj", "{78C177B9-8E4A-4D23-9385-3AA52AF16DC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "..\Prog3Actividad2\Dominio2\Dominio.csproj", "{7A0C3059-A673-4CCB-8795-75C31C8BBF0B}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{EACDA868-D6F5-4572-853A-AEFBA4EBCBC1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoDatos", "AccesoDatos\AccesoDatos.csproj", "{258DB52D-A4D8-4395-85A4-A382BDCD0E02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{7A0C3059-A673-4CCB-8795-75C31C8BBF0B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8018C265-7F17-4EF2-BF0F-471BD7F1255F}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,10 +26,6 @@ Global
 		{78C177B9-8E4A-4D23-9385-3AA52AF16DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78C177B9-8E4A-4D23-9385-3AA52AF16DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78C177B9-8E4A-4D23-9385-3AA52AF16DC7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7A0C3059-A673-4CCB-8795-75C31C8BBF0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7A0C3059-A673-4CCB-8795-75C31C8BBF0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7A0C3059-A673-4CCB-8795-75C31C8BBF0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7A0C3059-A673-4CCB-8795-75C31C8BBF0B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EACDA868-D6F5-4572-853A-AEFBA4EBCBC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EACDA868-D6F5-4572-853A-AEFBA4EBCBC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EACDA868-D6F5-4572-853A-AEFBA4EBCBC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +34,10 @@ Global
 		{258DB52D-A4D8-4395-85A4-A382BDCD0E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{258DB52D-A4D8-4395-85A4-A382BDCD0E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{258DB52D-A4D8-4395-85A4-A382BDCD0E02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A0C3059-A673-4CCB-8795-75C31C8BBF0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A0C3059-A673-4CCB-8795-75C31C8BBF0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A0C3059-A673-4CCB-8795-75C31C8BBF0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A0C3059-A673-4CCB-8795-75C31C8BBF0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

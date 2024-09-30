@@ -1,0 +1,12 @@
+C:\Users\slekl\source\repos\Prog3Actividad2\Dominio2\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\slekl\source\repos\Prog3Actividad2\Dominio2\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\slekl\source\repos\Prog3Actividad2\Dominio2\bin\Debug\Dominio2.dll
+C:\Users\slekl\source\repos\Prog3Actividad2\Dominio2\bin\Debug\Dominio2.pdb
+C:\Users\slekl\source\repos\Prog3Actividad2\Dominio2\obj\Debug\Dominio2.dll
+C:\Users\slekl\source\repos\Prog3Actividad2\Dominio2\obj\Debug\Dominio2.pdb
+C:\Users\slekl\source\repos\sleklere\TPWeb_equipo-12b\Dominio\bin\Debug\Dominio2.dll
+C:\Users\slekl\source\repos\sleklere\TPWeb_equipo-12b\Dominio\bin\Debug\Dominio2.pdb
+C:\Users\slekl\source\repos\sleklere\TPWeb_equipo-12b\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\slekl\source\repos\sleklere\TPWeb_equipo-12b\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\slekl\source\repos\sleklere\TPWeb_equipo-12b\Dominio\obj\Debug\Dominio2.dll
+C:\Users\slekl\source\repos\sleklere\TPWeb_equipo-12b\Dominio\obj\Debug\Dominio2.pdb
