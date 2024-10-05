@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\slekl\\source\\repos\\sleklere\\TPWeb_equipo-12b\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8018C265-7F17-4EF2-BF0F-471BD7F1255F}|Solution Items{8018C265-7F17-4EF2-BF0F-471BD7F1255F}|C:\\Users\\slekl\\Source\\Repos\\sleklere\\TPWeb_equipo-12b\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{8018C265-7F17-4EF2-BF0F-471BD7F1255F}|Solution Items{8018C265-7F17-4EF2-BF0F-471BD7F1255F}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{78C177B9-8E4A-4D23-9385-3AA52AF16DC7}|TPWeb_equipo-12b\\TPWeb_equipo-12b.csproj|c:\\users\\slekl\\source\\repos\\sleklere\\tpweb_equipo-12b\\tpweb_equipo-12b\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C177B9-8E4A-4D23-9385-3AA52AF16DC7}|TPWeb_equipo-12b\\TPWeb_equipo-12b.csproj|solutionrelative:tpweb_equipo-12b\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78C177B9-8E4A-4D23-9385-3AA52AF16DC7}|TPWeb_equipo-12b\\TPWeb_equipo-12b.csproj|c:\\users\\slekl\\source\\repos\\sleklere\\tpweb_equipo-12b\\tpweb_equipo-12b\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{78C177B9-8E4A-4D23-9385-3AA52AF16DC7}|TPWeb_equipo-12b\\TPWeb_equipo-12b.csproj|solutionrelative:tpweb_equipo-12b\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{EACDA868-D6F5-4572-853A-AEFBA4EBCBC1}|Negocio\\Negocio.csproj|c:\\users\\slekl\\source\\repos\\sleklere\\tpweb_equipo-12b\\negocio\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACDA868-D6F5-4572-853A-AEFBA4EBCBC1}|Negocio\\Negocio.csproj|solutionrelative:negocio\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78C177B9-8E4A-4D23-9385-3AA52AF16DC7}|TPWeb_equipo-12b\\TPWeb_equipo-12b.csproj|c:\\users\\slekl\\source\\repos\\sleklere\\tpweb_equipo-12b\\tpweb_equipo-12b\\master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{78C177B9-8E4A-4D23-9385-3AA52AF16DC7}|TPWeb_equipo-12b\\TPWeb_equipo-12b.csproj|solutionrelative:tpweb_equipo-12b\\master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+      "AbsoluteMoniker": "D:0:0:{78C177B9-8E4A-4D23-9385-3AA52AF16DC7}|TPWeb_equipo-12b\\TPWeb_equipo-12b.csproj|c:\\users\\slekl\\source\\repos\\sleklere\\tpweb_equipo-12b\\tpweb_equipo-12b\\error.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{78C177B9-8E4A-4D23-9385-3AA52AF16DC7}|TPWeb_equipo-12b\\TPWeb_equipo-12b.csproj|solutionrelative:tpweb_equipo-12b\\error.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{258DB52D-A4D8-4395-85A4-A382BDCD0E02}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\slekl\\source\\repos\\sleklere\\tpweb_equipo-12b\\accesodatos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{258DB52D-A4D8-4395-85A4-A382BDCD0E02}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C177B9-8E4A-4D23-9385-3AA52AF16DC7}|TPWeb_equipo-12b\\TPWeb_equipo-12b.csproj|c:\\users\\slekl\\source\\repos\\sleklere\\tpweb_equipo-12b\\tpweb_equipo-12b\\premios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{78C177B9-8E4A-4D23-9385-3AA52AF16DC7}|TPWeb_equipo-12b\\TPWeb_equipo-12b.csproj|solutionrelative:tpweb_equipo-12b\\premios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C177B9-8E4A-4D23-9385-3AA52AF16DC7}|TPWeb_equipo-12b\\TPWeb_equipo-12b.csproj|C:\\Users\\slekl\\source\\repos\\sleklere\\TPWeb_equipo-12b\\TPWeb_equipo-12b\\Default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{78C177B9-8E4A-4D23-9385-3AA52AF16DC7}|TPWeb_equipo-12b\\TPWeb_equipo-12b.csproj|solutionrelative:TPWeb_equipo-12b\\Default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0C3059-A673-4CCB-8795-75C31C8BBF0B}|Dominio\\Dominio.csproj|c:\\users\\slekl\\source\\repos\\sleklere\\tpweb_equipo-12b\\dominio\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0C3059-A673-4CCB-8795-75C31C8BBF0B}|Dominio\\Dominio.csproj|solutionrelative:dominio\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0C3059-A673-4CCB-8795-75C31C8BBF0B}|Dominio\\Dominio.csproj|c:\\users\\slekl\\source\\repos\\sleklere\\tpweb_equipo-12b\\dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0C3059-A673-4CCB-8795-75C31C8BBF0B}|Dominio\\Dominio.csproj|solutionrelative:dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0C3059-A673-4CCB-8795-75C31C8BBF0B}|Dominio\\Dominio.csproj|c:\\users\\slekl\\source\\repos\\sleklere\\tpweb_equipo-12b\\dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0C3059-A673-4CCB-8795-75C31C8BBF0B}|Dominio\\Dominio.csproj|solutionrelative:dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,29 +65,112 @@
               "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\slekl\\source\\repos\\sleklere\\TPWeb_equipo-12b\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\slekl\\source\\repos\\sleklere\\TPWeb_equipo-12b\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-09-30T02:30:33.47Z",
+              "DocumentIndex": 4,
+              "Title": "Premios.aspx",
+              "DocumentMoniker": "C:\\Users\\slekl\\source\\repos\\sleklere\\TPWeb_equipo-12b\\TPWeb_equipo-12b\\Premios.aspx",
+              "RelativeDocumentMoniker": "TPWeb_equipo-12b\\Premios.aspx",
+              "ToolTip": "C:\\Users\\slekl\\source\\repos\\sleklere\\TPWeb_equipo-12b\\TPWeb_equipo-12b\\Premios.aspx",
+              "RelativeToolTip": "TPWeb_equipo-12b\\Premios.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-05T23:02:37.522Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\slekl\\source\\repos\\sleklere\\TPWeb_equipo-12b\\AccesoDatos\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\slekl\\source\\repos\\sleklere\\TPWeb_equipo-12b\\AccesoDatos\\AccesoDatos.cs",
+              "RelativeToolTip": "AccesoDatos\\AccesoDatos.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T22:20:44.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Error.aspx",
+              "DocumentMoniker": "C:\\Users\\slekl\\source\\repos\\sleklere\\TPWeb_equipo-12b\\TPWeb_equipo-12b\\Error.aspx",
+              "RelativeDocumentMoniker": "TPWeb_equipo-12b\\Error.aspx",
+              "ToolTip": "C:\\Users\\slekl\\source\\repos\\sleklere\\TPWeb_equipo-12b\\TPWeb_equipo-12b\\Error.aspx",
+              "RelativeToolTip": "TPWeb_equipo-12b\\Error.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-05T22:16:50.847Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "VoucherNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\slekl\\Source\\Repos\\sleklere\\TPWeb_equipo-12b\\Negocio\\VoucherNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\VoucherNegocio.cs",
+              "ToolTip": "C:\\Users\\slekl\\Source\\Repos\\sleklere\\TPWeb_equipo-12b\\Negocio\\VoucherNegocio.cs",
+              "RelativeToolTip": "Negocio\\VoucherNegocio.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T22:05:13.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\slekl\\source\\repos\\sleklere\\TPWeb_equipo-12b\\TPWeb_equipo-12b\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "TPWeb_equipo-12b\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\slekl\\source\\repos\\sleklere\\TPWeb_equipo-12b\\TPWeb_equipo-12b\\Default.aspx.cs",
+              "RelativeToolTip": "TPWeb_equipo-12b\\Default.aspx.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:48:03.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\slekl\\source\\repos\\sleklere\\TPWeb_equipo-12b\\Dominio\\Categoria.cs",
+              "RelativeDocumentMoniker": "Dominio\\Categoria.cs",
+              "ToolTip": "C:\\Users\\slekl\\source\\repos\\sleklere\\TPWeb_equipo-12b\\Dominio\\Categoria.cs",
+              "RelativeToolTip": "Dominio\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T22:00:57.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\slekl\\source\\repos\\sleklere\\TPWeb_equipo-12b\\Dominio\\Marca.cs",
+              "RelativeDocumentMoniker": "Dominio\\Marca.cs",
+              "ToolTip": "C:\\Users\\slekl\\source\\repos\\sleklere\\TPWeb_equipo-12b\\Dominio\\Marca.cs",
+              "RelativeToolTip": "Dominio\\Marca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T22:00:56.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Voucher.cs",
+              "DocumentMoniker": "C:\\Users\\slekl\\source\\repos\\sleklere\\TPWeb_equipo-12b\\Dominio\\Voucher.cs",
+              "RelativeDocumentMoniker": "Dominio\\Voucher.cs",
+              "ToolTip": "C:\\Users\\slekl\\source\\repos\\sleklere\\TPWeb_equipo-12b\\Dominio\\Voucher.cs",
+              "RelativeToolTip": "Dominio\\Voucher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:59:54.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Default.aspx",
               "DocumentMoniker": "C:\\Users\\slekl\\source\\repos\\sleklere\\TPWeb_equipo-12b\\TPWeb_equipo-12b\\Default.aspx",
               "RelativeDocumentMoniker": "TPWeb_equipo-12b\\Default.aspx",
@@ -72,19 +179,6 @@
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-09-30T02:15:22.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Master.Master",
-              "DocumentMoniker": "C:\\Users\\slekl\\source\\repos\\sleklere\\TPWeb_equipo-12b\\TPWeb_equipo-12b\\Master.Master",
-              "RelativeDocumentMoniker": "TPWeb_equipo-12b\\Master.Master",
-              "ToolTip": "C:\\Users\\slekl\\source\\repos\\sleklere\\TPWeb_equipo-12b\\TPWeb_equipo-12b\\Master.Master",
-              "RelativeToolTip": "TPWeb_equipo-12b\\Master.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-30T02:02:57.952Z",
               "EditorCaption": ""
             }
           ]

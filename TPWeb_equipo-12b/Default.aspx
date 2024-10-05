@@ -3,11 +3,14 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <label for="inputCodigo" class="form-label">Ingresá el código de tu voucher!</label>
-    <input type="text" id="inputCodigo" class="form-control" aria-describedby="codigoHelpBlock" placeholder="XXXXXXXXXXXX">
-    <%--    <div id="codigoHelpBlock" class="form-text">
-        Your password must be 8-20 characters long, contain letters and numbers, and must not contain spaces, special characters, or emoji.
-    </div>--%>
-    <button type="button" class="btn btn-primary">Siguiente</button>
+    <div class="container mt-24">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <label for="inputCodigo" class="form-label">¡Ingresá el código de tu voucher!</label>
+                <asp:TextBox ID="inputCodigo" runat="server" CssClass="form-control" Placeholder="XXXXXXXXXXXX"></asp:TextBox>
+                <asp:Button ID="btnSiguiente" runat="server" Text="Siguiente" CssClass="btn btn-primary mt-3" OnClick="btnSiguiente_Click" />
+            </div>
+        </div>
+    </div>
 
 </asp:Content>

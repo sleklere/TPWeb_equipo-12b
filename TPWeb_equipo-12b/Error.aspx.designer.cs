@@ -11,25 +11,25 @@ namespace TPWeb_equipo_12b
 {
 
 
-    public partial class Default
+    public partial class Error
     {
 
         /// <summary>
-        /// inputCodigo control.
+        /// lblError control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox inputCodigo;
+        protected global::System.Web.UI.WebControls.Label lblError;
 
         /// <summary>
-        /// btnSiguiente control.
+        /// btnVolver control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnSiguiente;
+        protected global::System.Web.UI.WebControls.Button btnVolver;
     }
 }
