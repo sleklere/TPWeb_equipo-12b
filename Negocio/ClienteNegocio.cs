@@ -39,5 +39,44 @@ namespace Negocio
 
 
         }
+
+        public Cliente BuscarClienteByDNI(int dni)
+        {
+            AccesoDatos datos = new AccesoDatos();
+            Cliente cliente = null;
+
+            try
+            {
+                datos.SetearConsulta("SELECT * FROM Clientes WHERE Documento = @Documento");
+                datos.AgregarParametro("@Documento", dni);
+                datos.EjecutarLectura();
+
+                if (datos.Lector.Read())
+                {
+                    cliente = new Cliente();
+                    cliente.Nombre = (string)datos.Lector["Nombre"];
+                    cliente.Apellido = (string)datos.Lector["Apellido"];
+                    cliente.Email = (string)datos.Lector["Email"];
+                    cliente.Direccion = (string)datos.Lector["Direccion"];
+                    cliente.Ciudad = (string)datos.Lector["Ciudad"];
+                    cliente.CP = (int)datos.Lector["CP"];
+                    
+                    return cliente;
+                }
+                else
+                {
+                    return null;
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
+                throw ex;
+            }
+            finally
+            {
+                datos.CerrarConexion();
+            }
+        }
     }
 }

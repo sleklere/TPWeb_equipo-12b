@@ -56,5 +56,22 @@ namespace TPWeb_equipo_12b
                 Response.Redirect("Exito.aspx");
             }
         }
+
+        protected void dni_onBlur(object sender, EventArgs e)
+        {
+            int dni = int.Parse(txtDNI.Text);
+            ClienteNegocioo service = new ClienteNegocioo();
+            Cliente cliente = service.BuscarClienteByDNI(dni);
+
+            if (cliente != null)
+            {
+                txtNombre.Text = cliente.Nombre;
+                txtApellido.Text = cliente.Apellido;
+                txtEmail.Text = cliente.Email;
+                txtDireccion.Text = cliente.Direccion;
+                txtCiudad.Text = cliente.Ciudad;
+                txtCP.Text = cliente.CP.ToString();
+            }
+        }
     }
 }

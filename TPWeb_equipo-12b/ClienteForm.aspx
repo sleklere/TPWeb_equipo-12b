@@ -7,7 +7,7 @@
         <h2>Ingresá tus datos</h2>
         <div class="form-group">
             <asp:Label runat="server" AssociatedControlID="txtDNI" Text="DNI"></asp:Label>
-            <asp:TextBox runat="server" ID="txtDNI" class="form-control" placeholder="DNI"></asp:TextBox>
+            <asp:TextBox runat="server" ID="txtDNI" class="form-control" placeholder="DNI" OnTextChanged="dni_onBlur" AutoPostBack="True"></asp:TextBox>
         </div>
         
         <div class="form-group">
