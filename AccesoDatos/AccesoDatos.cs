@@ -21,7 +21,7 @@ namespace ManejoDB
 
         public AccesoDatos()
         {
-            conexion = new SqlConnection("Server=localhost,1433;Database=PROMOS_DB;Integrated Security=True;");
+            conexion = new SqlConnection("Server=localhost\\SQLEXPRESS;Database=PROMOS_DB;Integrated Security=True;");
             comando = new SqlCommand();
         }
 
