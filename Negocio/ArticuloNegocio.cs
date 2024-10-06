@@ -263,6 +263,39 @@ namespace Negocio
             }
         }
 
+        public List<Imagen> GetImgsByArticuloId(int IdArticulo)
+        {
+            AccesoDatos datos = new AccesoDatos();
+            List<Imagen> imagenes = new List<Imagen>();
+
+            try
+            {
+                datos.SetearConsulta("SELECT Id, IdArticulo, ImagenUrl FROM IMAGENES WHERE IdArticulo = @IdArticulo");
+                datos.AgregarParametro("@IdArticulo", IdArticulo);
+                datos.EjecutarLectura();
+
+                while (datos.Lector.Read())
+                {
+                    Imagen img = new Imagen();
+                    img.Id = (int)datos.Lector["Id"];
+                    img.IdArticulo = (int)datos.Lector["IdArticulo"];
+                    img.ImagenUrl = (string)datos.Lector["ImagenUrl"];
+
+                    imagenes.Add(img);
+                }
+
+                return imagenes;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            finally
+            {
+                datos.CerrarConexion();
+            }
+        }
+
         public List<Marca> listarMarcas()
         {
             List<Marca> lista = new List<Marca>();

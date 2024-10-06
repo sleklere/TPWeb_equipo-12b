@@ -13,16 +13,26 @@ namespace TPWeb_equipo_12b
     public partial class Premios : System.Web.UI.Page
     {
         public List<Articulo> listaArticulos;
+        public Dictionary<int, List<Imagen>> imagenesPorArticulo;
         private void Cargar()
         {
             ArticuloNegocio service = new ArticuloNegocio();
             try
             {
                 listaArticulos = service.listarArticulos();
+                imagenesPorArticulo = new Dictionary<int, List<Imagen>>();
+
+                //ArticuloNegocio imagenService = new ArticuloNegocio();
+
+                foreach (var articulo in listaArticulos)
+                {
+                    var imagenes = service.GetImgsByArticuloId(articulo.Id);
+                    imagenesPorArticulo.Add(articulo.Id, imagenes);
+                }
             }
             catch (Exception ex)
             {
-                //MessageBox.Show(ex.ToString());
+                Console.WriteLine(ex.ToString());
             }
         }
 
