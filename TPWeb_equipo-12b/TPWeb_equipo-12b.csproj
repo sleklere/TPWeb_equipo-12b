@@ -73,6 +73,7 @@
     <Content Include="Premios.aspx" />
     <Content Include="Web.config" />
     <Content Include="ClienteForm.aspx" />
+    <Content Include="Exito.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Default.aspx.cs">
@@ -113,6 +114,13 @@
     </Compile>
     <Compile Include="ClienteForm.aspx.designer.cs">
       <DependentUpon>ClienteForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Exito.aspx.cs">
+      <DependentUpon>Exito.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Exito.aspx.designer.cs">
+      <DependentUpon>Exito.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

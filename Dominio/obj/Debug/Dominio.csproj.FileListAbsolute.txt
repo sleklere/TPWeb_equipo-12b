@@ -10,3 +10,9 @@ C:\Users\slekl\source\repos\sleklere\TPWeb_equipo-12b\Dominio\obj\Debug\Dominio.
 C:\Users\slekl\source\repos\sleklere\TPWeb_equipo-12b\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
 C:\Users\slekl\source\repos\sleklere\TPWeb_equipo-12b\Dominio\obj\Debug\Dominio2.dll
 C:\Users\slekl\source\repos\sleklere\TPWeb_equipo-12b\Dominio\obj\Debug\Dominio2.pdb
+C:\Users\Usuario\Desktop\TUP\Tercer cuatrimestre\Prog3\TPWeb_equipo-12b\Dominio\bin\Debug\Dominio2.dll
+C:\Users\Usuario\Desktop\TUP\Tercer cuatrimestre\Prog3\TPWeb_equipo-12b\Dominio\bin\Debug\Dominio2.pdb
+C:\Users\Usuario\Desktop\TUP\Tercer cuatrimestre\Prog3\TPWeb_equipo-12b\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TUP\Tercer cuatrimestre\Prog3\TPWeb_equipo-12b\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TUP\Tercer cuatrimestre\Prog3\TPWeb_equipo-12b\Dominio\obj\Debug\Dominio2.dll
+C:\Users\Usuario\Desktop\TUP\Tercer cuatrimestre\Prog3\TPWeb_equipo-12b\Dominio\obj\Debug\Dominio2.pdb
