@@ -18,6 +18,7 @@ namespace TPWeb_equipo_12b
         protected void btnSubmit_Click(object sender, EventArgs e)
         {
             ClienteNegocioo service = new ClienteNegocioo();
+            VoucherNegocio serviceVoucher = new VoucherNegocio();
 
             string dni = txtDNI.Text;
             string nombre = txtNombre.Text;
@@ -52,8 +53,16 @@ namespace TPWeb_equipo_12b
                 cliente.Ciudad = ciudad;
                 cliente.CP = int.Parse(cp);
 
-                service.AgregarCliente(cliente);
-                Response.Redirect("Exito.aspx");
+                int clienteId = service.AgregarCliente(cliente);
+
+                if (clienteId != -1)
+                {
+                    Voucher voucher = (Voucher)Session["voucher"];
+                    voucher.IdCliente = clienteId;
+                    serviceVoucher.AsociarConCliente(voucher.CodigoVoucher, clienteId);
+
+                    Response.Redirect("Exito.aspx");
+                }
             }
         }
 

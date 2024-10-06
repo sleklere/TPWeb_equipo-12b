@@ -58,6 +58,27 @@ namespace ManejoDB
                 throw ex;
             }
         }
+        public int EjecutarEscalar()
+        {
+            comando.Connection = conexion;
+            try
+            {
+                conexion.Open();
+                object resultado = comando.ExecuteScalar();
+                if (resultado != null && resultado != DBNull.Value)
+                {
+                    return (int)resultado;
+                }
+                else
+                {
+                    return -1;
+                }
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
         public void AgregarParametro(string nombre, object valor)
         {
             comando.Parameters.AddWithValue(nombre, valor);

@@ -35,6 +35,7 @@ namespace TPWeb_equipo_12b
                 }
                 else
                 {
+                    Session["voucher"] = voucher;
                     Response.Redirect("Premios.aspx", false);
                 }
             }

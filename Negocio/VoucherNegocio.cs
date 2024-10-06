@@ -39,8 +39,31 @@ namespace Negocio
             {
                 datos.CerrarConexion();
             }
-
-
         }
+
+        public void AsociarConCliente(string codigoVoucher, int idCliente)
+        {
+            AccesoDatos datos = new AccesoDatos();
+
+            try
+            {
+                datos.SetearConsulta("UPDATE Vouchers SET IdCliente = @IdCliente WHERE CodigoVoucher = @CodigoVoucher");
+
+                datos.AgregarParametro("@IdCliente", idCliente);
+                datos.AgregarParametro("@CodigoVoucher", codigoVoucher);
+
+                datos.EjecutarAccion();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
+                throw ex;
+            }
+            finally
+            {
+                datos.CerrarConexion();
+            }
+        }
+
     }
 }

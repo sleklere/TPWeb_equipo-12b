@@ -10,13 +10,14 @@ namespace Negocio
 {
     public class ClienteNegocioo
     {
-        public void AgregarCliente(Cliente cliente)
+        public int AgregarCliente(Cliente cliente)
         {
             AccesoDatos datos = new AccesoDatos();
 
             try
             {
-                datos.SetearConsulta("INSERT INTO Clientes VALUES (@Documento, @Nombre, @Apellido, @Email, @Direccion, @Ciudad, @CP)");
+                datos.SetearConsulta("INSERT INTO Clientes (Documento, Nombre, Apellido, Email, Direccion, Ciudad, CP) " +
+                    "OUTPUT INSERTED.Id VALUES (@Documento, @Nombre, @Apellido, @Email, @Direccion, @Ciudad, @CP)");
                 datos.AgregarParametro("@Id", cliente.Id);
                 datos.AgregarParametro("@Documento", cliente.Documento);
                 datos.AgregarParametro("@Nombre", cliente.Nombre);
@@ -25,7 +26,9 @@ namespace Negocio
                 datos.AgregarParametro("@Direccion", cliente.Direccion);
                 datos.AgregarParametro("@Ciudad", cliente.Ciudad);
                 datos.AgregarParametro("@CP", cliente.CP);
-                datos.EjecutarLectura();
+
+                int id = (int)datos.EjecutarEscalar();
+                return id;
             }
             catch (Exception ex)
             {
