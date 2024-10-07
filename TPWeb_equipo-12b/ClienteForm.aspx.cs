@@ -44,24 +44,40 @@ namespace TPWeb_equipo_12b
             else
             {
                 lblError.Visible = false;
-                Cliente cliente = new Cliente();
-                cliente.Documento = int.Parse(dni);
-                cliente.Nombre = nombre;
-                cliente.Apellido = apellido;
-                cliente.Email = email;
-                cliente.Direccion = direccion;
-                cliente.Ciudad = ciudad;
-                cliente.CP = int.Parse(cp);
 
-                int clienteId = service.AgregarCliente(cliente);
+                int dniParsed = int.Parse(dni);
+                Cliente clienteExistente = service.BuscarClienteByDNI(dniParsed);
 
-                if (clienteId != -1)
+                if (clienteExistente != null)
                 {
+                    Console.WriteLine(clienteExistente.Id);
                     Voucher voucher = (Voucher)Session["voucher"];
-                    voucher.IdCliente = clienteId;
-                    serviceVoucher.AsociarConCliente(voucher.CodigoVoucher, clienteId);
+                    voucher.IdCliente = clienteExistente.Id;
+                    serviceVoucher.AsociarConCliente(voucher.CodigoVoucher, clienteExistente.Id);
 
                     Response.Redirect("Exito.aspx");
+                }
+                else
+                {
+                    Cliente cliente = new Cliente();
+                    cliente.Documento = dniParsed;
+                    cliente.Nombre = nombre;
+                    cliente.Apellido = apellido;
+                    cliente.Email = email;
+                    cliente.Direccion = direccion;
+                    cliente.Ciudad = ciudad;
+                    cliente.CP = int.Parse(cp);
+
+                    int clienteId = service.AgregarCliente(cliente);
+
+                    if (clienteId != -1)
+                    {
+                        Voucher voucher = (Voucher)Session["voucher"];
+                        voucher.IdCliente = clienteId;
+                        serviceVoucher.AsociarConCliente(voucher.CodigoVoucher, clienteId);
+
+                        Response.Redirect("Exito.aspx");
+                    }
                 }
             }
         }

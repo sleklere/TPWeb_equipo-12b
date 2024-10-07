@@ -20,3 +20,14 @@ C:\Users\Usuario\Desktop\TUP\Tercer cuatrimestre\Prog3\TPWeb_equipo-12b\Negocio\
 C:\Users\Usuario\Desktop\TUP\Tercer cuatrimestre\Prog3\TPWeb_equipo-12b\Negocio\obj\Debug\Negocio.csproj.Up2Date
 C:\Users\Usuario\Desktop\TUP\Tercer cuatrimestre\Prog3\TPWeb_equipo-12b\Negocio\obj\Debug\Negocio.dll
 C:\Users\Usuario\Desktop\TUP\Tercer cuatrimestre\Prog3\TPWeb_equipo-12b\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Usuario\Desktop\TUP\TPWeb_equipo-12b\Negocio\bin\Debug\Negocio.dll
+C:\Users\Usuario\Desktop\TUP\TPWeb_equipo-12b\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Usuario\Desktop\TUP\TPWeb_equipo-12b\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\Usuario\Desktop\TUP\TPWeb_equipo-12b\Negocio\bin\Debug\Dominio2.dll
+C:\Users\Usuario\Desktop\TUP\TPWeb_equipo-12b\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\Usuario\Desktop\TUP\TPWeb_equipo-12b\Negocio\bin\Debug\Dominio2.pdb
+C:\Users\Usuario\Desktop\TUP\TPWeb_equipo-12b\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TUP\TPWeb_equipo-12b\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TUP\TPWeb_equipo-12b\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\Usuario\Desktop\TUP\TPWeb_equipo-12b\Negocio\obj\Debug\Negocio.dll
+C:\Users\Usuario\Desktop\TUP\TPWeb_equipo-12b\Negocio\obj\Debug\Negocio.pdb

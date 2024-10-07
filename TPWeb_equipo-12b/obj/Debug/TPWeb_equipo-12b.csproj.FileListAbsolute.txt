@@ -128,3 +128,19 @@ C:\Users\Usuario\Desktop\TUP\Tercer cuatrimestre\Prog3\TPWeb_equipo-12b\TPWeb_eq
 C:\Users\Usuario\Desktop\TUP\Tercer cuatrimestre\Prog3\TPWeb_equipo-12b\TPWeb_equipo-12b\obj\Debug\TPWeb_eq.C66F60C7.Up2Date
 C:\Users\Usuario\Desktop\TUP\Tercer cuatrimestre\Prog3\TPWeb_equipo-12b\TPWeb_equipo-12b\obj\Debug\TPWeb_equipo-12b.dll
 C:\Users\Usuario\Desktop\TUP\Tercer cuatrimestre\Prog3\TPWeb_equipo-12b\TPWeb_equipo-12b\obj\Debug\TPWeb_equipo-12b.pdb
+C:\Users\Usuario\Desktop\TUP\TPWeb_equipo-12b\TPWeb_equipo-12b\bin\TPWeb_equipo-12b.dll.config
+C:\Users\Usuario\Desktop\TUP\TPWeb_equipo-12b\TPWeb_equipo-12b\bin\TPWeb_equipo-12b.dll
+C:\Users\Usuario\Desktop\TUP\TPWeb_equipo-12b\TPWeb_equipo-12b\bin\TPWeb_equipo-12b.pdb
+C:\Users\Usuario\Desktop\TUP\TPWeb_equipo-12b\TPWeb_equipo-12b\bin\Dominio2.dll
+C:\Users\Usuario\Desktop\TUP\TPWeb_equipo-12b\TPWeb_equipo-12b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\TUP\TPWeb_equipo-12b\TPWeb_equipo-12b\bin\Negocio.dll
+C:\Users\Usuario\Desktop\TUP\TPWeb_equipo-12b\TPWeb_equipo-12b\bin\AccesoDatos.dll
+C:\Users\Usuario\Desktop\TUP\TPWeb_equipo-12b\TPWeb_equipo-12b\bin\Dominio2.pdb
+C:\Users\Usuario\Desktop\TUP\TPWeb_equipo-12b\TPWeb_equipo-12b\bin\Negocio.pdb
+C:\Users\Usuario\Desktop\TUP\TPWeb_equipo-12b\TPWeb_equipo-12b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\TUP\TPWeb_equipo-12b\TPWeb_equipo-12b\bin\AccesoDatos.pdb
+C:\Users\Usuario\Desktop\TUP\TPWeb_equipo-12b\TPWeb_equipo-12b\obj\Debug\TPWeb_equipo-12b.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TUP\TPWeb_equipo-12b\TPWeb_equipo-12b\obj\Debug\TPWeb_equipo-12b.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TUP\TPWeb_equipo-12b\TPWeb_equipo-12b\obj\Debug\TPWeb_eq.C66F60C7.Up2Date
+C:\Users\Usuario\Desktop\TUP\TPWeb_equipo-12b\TPWeb_equipo-12b\obj\Debug\TPWeb_equipo-12b.dll
+C:\Users\Usuario\Desktop\TUP\TPWeb_equipo-12b\TPWeb_equipo-12b\obj\Debug\TPWeb_equipo-12b.pdb
